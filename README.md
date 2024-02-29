@@ -1,4 +1,4 @@
-![nn9](https://github.com/Haridharshini21500176/Ex-1-NN/assets/94168395/f44c50b8-c52a-4221-b656-73871e20b987)<H3>ENTER YOUR NAME : Haridharshini.S</H3>  
+<H3>ENTER YOUR NAME : Haridharshini.S</H3>  
 <H3>ENTER YOUR REGISTER NO : 212221230033</H3> 
 <H3>EX. NO.1</H3>
 
